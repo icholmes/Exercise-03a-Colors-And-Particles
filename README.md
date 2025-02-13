@@ -6,7 +6,7 @@ The first steps in adding "juicy" features to a simple brick-breaker game.
 
 ## To play
 
-Move the paddle using A and D. Help the ball break all the bricks.
+Move the paddle using A and D. Help the ball break all the bricks before you run out of time.
 
 
 ## Implementation
@@ -27,4 +27,4 @@ Tweening, Screen Shake, Adding a face, Comet trail, Music and Sound, Shaders, et
 
 ## Created by 
 
-Nathan Mishler
+Izzy Holmes
